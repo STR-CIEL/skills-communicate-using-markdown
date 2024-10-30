@@ -8,6 +8,3 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ~~~
 
 
-~~~ C++
-std::cout << "Hello World";
-~~~

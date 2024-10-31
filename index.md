@@ -24,5 +24,7 @@ Intialized empty Git repository in /Users/besim/Desktop/Test/.git/
 
 
 ```
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 

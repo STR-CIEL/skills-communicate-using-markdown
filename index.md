@@ -2,7 +2,7 @@
 ## <h2>this is an header
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-~~~ c++
+~~~~ c++
 		int count = 0; // Pour compter le nombre de combinaisons
 
 		// Boucles imbriqu�es pour explorer toutes les combinaisons
@@ -20,6 +20,6 @@
 		}
 
 
-~~~
+~~~~
 
 

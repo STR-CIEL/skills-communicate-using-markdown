@@ -1,11 +1,11 @@
 # <h1> this is an header 
 ## <h2>this is an header
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-~~~~
+```
 $ git init
 Intialized empty Git repository in /Users/besim/Desktop/Test/.git/
-~~~~
-~~~~ c++
+```
+``` c++
 		int count = 0; // Pour compter le nombre de combinaisons
 
 		// Boucles imbriquees pour explorer toutes les combinaisons
@@ -23,6 +23,6 @@ Intialized empty Git repository in /Users/besim/Desktop/Test/.git/
 		}
 
 
-~~~~
+```
 
 
